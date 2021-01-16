@@ -1,0 +1,9 @@
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\bin\Debug\Personel Takip.pdb
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csprojAssemblyReference.cache
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.CoreCompileInputs.cache
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.exe
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.pdb
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.ProjectInstaller.resources
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Service1.resources
+C:\Users\kuday\source\repos\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
