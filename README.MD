@@ -65,6 +65,8 @@ void Base64EncodedCommand()
         }
 ```
 
+
+
 Evet burda bir batch kodu çalıştırıldığını görüyoruz. `net localgroup administrators bkg\yetkisizuser /add`. Unquoted service path sistemde tespit edildikten sonra `OnStart` metodunu aşağıdaki gibi güncellemek isteyebilirsiniz.
 ```c#
         protected override void OnStart(string[] args)
@@ -80,3 +82,8 @@ Evet burda bir batch kodu çalıştırıldığını görüyoruz. `net localgroup
 ```
 
 Artık servis başladığında batch kodumuz çalışacak. Bu projeyi derleyip exe'yi binary path içerisinde unquoted service path'e uygun bir isimle eklerseniz. Servis yeniden başladığında local adminsiniz!
+
+## Not
+Ayrıca internet sayfamda bu konuları daha iyi anlattığımı düşünüyorum. Aşağıdaki linklerede bakmanızı tavsiye ederim.
+http://144.76.171.171/blog/index.php/unquoted-service-path/
+http://144.76.171.171/blog/index.php/unquoted-service-path-ve-bir-proje/
