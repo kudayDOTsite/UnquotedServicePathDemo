@@ -85,5 +85,5 @@ Artık servis başladığında batch kodumuz çalışacak. Bu projeyi derleyip e
 
 ## Not
 Ayrıca internet sayfamda bu konuları daha iyi anlattığımı düşünüyorum. Aşağıdaki linklerede bakmanızı tavsiye ederim.
-http://144.76.171.171/blog/index.php/unquoted-service-path/
-http://144.76.171.171/blog/index.php/unquoted-service-path-ve-bir-proje/
+https://berenkudaygorun.com/blog/index.php/unquoted-service-path/
+https://berenkudaygorun.com/blog/index.php/unquoted-service-path-ve-bir-proje/
